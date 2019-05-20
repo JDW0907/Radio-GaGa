@@ -176,6 +176,7 @@ footer .box {
   overflow: hidden;
   height: 24vh;
 }
+
 footer ul {
   position: absolute;
   left: 0;
@@ -228,7 +229,7 @@ footer .icon-left {
   left: -8vh;
 }
 footer .icon-right {
-  right: 1vh;
+  right: -8vh;
 }
 
 /* 歌词格式 */
